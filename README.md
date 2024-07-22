@@ -17,7 +17,7 @@ Install Galaxy_Linux_Python library:
 
 Finally, build Daheng Pub:
 
-    catkin build daheng_pub
+    catkin_make
 
 
 
