@@ -27,7 +27,7 @@ First, make sure Get Pose is sourced in your current terminal:
 
     source /devel/setup.bash
 
-run:
+Run:
 
     roscore 
     rosrun daheng_pub image_pub.py
