@@ -15,11 +15,6 @@ Install Galaxy_Linux_Python library:
     python3 setup.py build
     sudo python3 setup.py install
 
-install daheng rosnode camera_publisher:
-
-    cd get_pose_ws/src/
-    git clone https://github.com/Liuxiaoyan-sdu/get_pose_ws/tree/master/src/daheng_pub
-
 Finally, build Daheng Pub:
 
     catkin build daheng_pub
